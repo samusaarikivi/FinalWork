@@ -6,3 +6,11 @@ d:\tiedostot\visual studio 2015\Projects\FinalWork\FinalWork\bin\Debug\DLL.pdb
 d:\tiedostot\visual studio 2015\Projects\FinalWork\FinalWork\obj\Debug\FinalWork.csprojResolveAssemblyReference.cache
 d:\tiedostot\visual studio 2015\Projects\FinalWork\FinalWork\obj\Debug\FinalWork.exe
 d:\tiedostot\visual studio 2015\Projects\FinalWork\FinalWork\obj\Debug\FinalWork.pdb
+D:\Tiedostot\GitHub\FinalWork\FinalWork\bin\Debug\FinalWork.exe.config
+D:\Tiedostot\GitHub\FinalWork\FinalWork\obj\Debug\FinalWork.exe
+D:\Tiedostot\GitHub\FinalWork\FinalWork\obj\Debug\FinalWork.pdb
+D:\Tiedostot\GitHub\FinalWork\FinalWork\bin\Debug\FinalWork.exe
+D:\Tiedostot\GitHub\FinalWork\FinalWork\bin\Debug\FinalWork.pdb
+D:\Tiedostot\GitHub\FinalWork\FinalWork\bin\Debug\DLL.dll
+D:\Tiedostot\GitHub\FinalWork\FinalWork\bin\Debug\DLL.pdb
+D:\Tiedostot\GitHub\FinalWork\FinalWork\obj\Debug\FinalWork.csprojResolveAssemblyReference.cache

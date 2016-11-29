@@ -12,7 +12,6 @@ namespace FinalWork
         static void Main(string[] args)
         {
             RegKeys.Create();
-            RegKeys.Read("Name");
             switch (args[0])
             {
                 case "-r":
