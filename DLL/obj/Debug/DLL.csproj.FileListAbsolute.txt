@@ -1,0 +1,5 @@
+d:\tiedostot\visual studio 2015\Projects\FinalWork\DLL\obj\Debug\DLL.csprojResolveAssemblyReference.cache
+d:\tiedostot\visual studio 2015\Projects\FinalWork\DLL\bin\Debug\DLL.dll
+d:\tiedostot\visual studio 2015\Projects\FinalWork\DLL\bin\Debug\DLL.pdb
+d:\tiedostot\visual studio 2015\Projects\FinalWork\DLL\obj\Debug\DLL.dll
+d:\tiedostot\visual studio 2015\Projects\FinalWork\DLL\obj\Debug\DLL.pdb

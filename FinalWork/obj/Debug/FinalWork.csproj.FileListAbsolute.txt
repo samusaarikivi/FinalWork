@@ -1,0 +1,8 @@
+d:\tiedostot\visual studio 2015\Projects\FinalWork\FinalWork\bin\Debug\FinalWork.exe.config
+d:\tiedostot\visual studio 2015\Projects\FinalWork\FinalWork\bin\Debug\FinalWork.exe
+d:\tiedostot\visual studio 2015\Projects\FinalWork\FinalWork\bin\Debug\FinalWork.pdb
+d:\tiedostot\visual studio 2015\Projects\FinalWork\FinalWork\bin\Debug\DLL.dll
+d:\tiedostot\visual studio 2015\Projects\FinalWork\FinalWork\bin\Debug\DLL.pdb
+d:\tiedostot\visual studio 2015\Projects\FinalWork\FinalWork\obj\Debug\FinalWork.csprojResolveAssemblyReference.cache
+d:\tiedostot\visual studio 2015\Projects\FinalWork\FinalWork\obj\Debug\FinalWork.exe
+d:\tiedostot\visual studio 2015\Projects\FinalWork\FinalWork\obj\Debug\FinalWork.pdb
