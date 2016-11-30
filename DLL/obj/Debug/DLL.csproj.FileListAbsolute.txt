@@ -8,3 +8,8 @@ D:\Tiedostot\GitHub\FinalWork\DLL\bin\Debug\DLL.pdb
 D:\Tiedostot\GitHub\FinalWork\DLL\obj\Debug\DLL.csprojResolveAssemblyReference.cache
 D:\Tiedostot\GitHub\FinalWork\DLL\obj\Debug\DLL.dll
 D:\Tiedostot\GitHub\FinalWork\DLL\obj\Debug\DLL.pdb
+C:\Users\saarsamu.LABRA\Source\Repos\FinalWork\DLL\bin\Debug\DLL.dll
+C:\Users\saarsamu.LABRA\Source\Repos\FinalWork\DLL\bin\Debug\DLL.pdb
+C:\Users\saarsamu.LABRA\Source\Repos\FinalWork\DLL\obj\Debug\DLL.csprojResolveAssemblyReference.cache
+C:\Users\saarsamu.LABRA\Source\Repos\FinalWork\DLL\obj\Debug\DLL.dll
+C:\Users\saarsamu.LABRA\Source\Repos\FinalWork\DLL\obj\Debug\DLL.pdb

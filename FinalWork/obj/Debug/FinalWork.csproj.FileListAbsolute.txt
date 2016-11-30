@@ -14,3 +14,11 @@ D:\Tiedostot\GitHub\FinalWork\FinalWork\bin\Debug\FinalWork.pdb
 D:\Tiedostot\GitHub\FinalWork\FinalWork\bin\Debug\DLL.dll
 D:\Tiedostot\GitHub\FinalWork\FinalWork\bin\Debug\DLL.pdb
 D:\Tiedostot\GitHub\FinalWork\FinalWork\obj\Debug\FinalWork.csprojResolveAssemblyReference.cache
+C:\Users\saarsamu.LABRA\Source\Repos\FinalWork\FinalWork\bin\Debug\FinalWork.exe.config
+C:\Users\saarsamu.LABRA\Source\Repos\FinalWork\FinalWork\obj\Debug\FinalWork.exe
+C:\Users\saarsamu.LABRA\Source\Repos\FinalWork\FinalWork\obj\Debug\FinalWork.pdb
+C:\Users\saarsamu.LABRA\Source\Repos\FinalWork\FinalWork\bin\Debug\FinalWork.exe
+C:\Users\saarsamu.LABRA\Source\Repos\FinalWork\FinalWork\bin\Debug\FinalWork.pdb
+C:\Users\saarsamu.LABRA\Source\Repos\FinalWork\FinalWork\bin\Debug\DLL.dll
+C:\Users\saarsamu.LABRA\Source\Repos\FinalWork\FinalWork\bin\Debug\DLL.pdb
+C:\Users\saarsamu.LABRA\Source\Repos\FinalWork\FinalWork\obj\Debug\FinalWork.csprojResolveAssemblyReference.cache
